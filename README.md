@@ -14,6 +14,9 @@ pip install -r requirements.txt
 `
 <br><br>
 `
+Add usernames to usernames.txt
+`
+`
 python main.py
 `
 
