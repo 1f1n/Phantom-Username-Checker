@@ -1,6 +1,6 @@
 <h1 align="center">
 	<img src="https://pbs.twimg.com/profile_images/1675202638026252291/4StTDIF4_400x400.jpg" width="150px"><br>
-    Dragon
+    Phantom Username Checker
 </h1>
 <p align="center">
 	Find available usernames in bulk with the new Phantom username feature.
