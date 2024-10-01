@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img src="https://phantom.app/favicon/favicon-32x32.png" width="150px"><br>
+	<img src="https://pbs.twimg.com/profile_images/1675202638026252291/4StTDIF4_400x400.jpg" width="150px"><br>
     Dragon
 </h1>
 <p align="center">
